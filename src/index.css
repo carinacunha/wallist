@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500&family=Roboto:wght@300&family=Ubuntu:wght@300;400&display=swap');
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h1 {
+  font-size: 80px;
+  color: #F4722B;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.wallet {
+  font-size: 60px;
+  color: #343F56;
+  margin-left: 150px;
+  margin-top: 5px;
+}
+
+img {
+  width: 900px;
+  margin-top: 10px;
+  position: relative;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  background-color: #343F56;
+  margin-right: 500px;
+  width: 50%;
+  height: 350px;
+  border-style: none;
+  border-radius: 14px;
+  gap: 40px;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  align-content: space-evenly;
+  margin-left: 10px;
+  margin-top: 2px;
+  color: #343F56;
+  
+}
+
+.login {
+  color: white;
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+.inputslogin {
+  height: 36px;
+  width: 90%;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.buttonLogin {
+  height: 36px;
+  color: #343F56;
+  width: 30%;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.buttonLogin:hover {
+  background-color: #F4722B; 
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #343F56;
+  color: white;
+  height: 80px;
+  font-size: 18px;
+}
+
+.titleHeader{
+  font-size: 32px;
+  color: #F4722B; 
+}
+
+.p1 {
+  font-size: 30px;
+  text-align: center;
+  color: #F4722B;
+  height: 10px;
+}
+
+ .p2 {
+  font-size: 30px;
+  text-align: center;
+  color: #F4722B;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  font-size: 18px;
+  color: #343F56;
+}
+
+label {
+  margin-left: 20px;
+}
+.inputWallet {
+  margin-left: 10px;
+  text-align: center;
+  border-radius: 15px;
+  border-width: 0.2px;
+  font-size: 18px;
+  width:fit-content;
+  color: #343F56;
+  
+}
+
+.buttonWallet {
+  background-color: white;
+  color: #F4722B;
+  width: 38px;
+  height: 36px;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 33px;
+  margin-left: 15px;
+  padding-left: 2.40px;
+}
+
+.buttonWallet:hover {
+  background-color: #F4722B;
+  color: white;
+}
+
+.formImg {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  color: #343F56;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  align-self: center;
+  margin-left: 65px;
+}
+
+th, td {
+  padding: 25px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+button{
+  background-color: white;
+  color: #F4722B;
+  border-style: none;
+  font-size: 23px;
+}
+
+.pig{
+  width: 15%;
+  height: 15%;
+  margin-top: 0px;
+  padding-left: 35px;
+}
