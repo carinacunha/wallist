@@ -7,4 +7,4 @@ Para realizar a busca de câmbio de moedas, são utilizados dados da API do [awe
 
 A validação da aplicação foi feita usando a biblioteca React Testing Library.
 
-**Este projeto foi desenvolvido durante o curso de Desenvolverdor Web na Trybe.**
+**Este projeto foi desenvolvido durante o curso de Desenvolverdor Web na Trybe.** Para acessar a página clique [aqui](https://carinacunha.github.io/wallist/).
