@@ -1,7 +1,7 @@
 {
   "name": "sd-0x-project-trybewallet",
   "version": "1.0.0",
-  "homepage": "https://carinacunha.github.io/wallist/",
+  "homepage": "https://carinacunha.github.io/wallist",
   "private": true,
   "engines": {
     "node": "16"
