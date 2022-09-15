@@ -1,10 +1,11 @@
+# WALLIST 
+
 ![página de login](/src/loginimg.jpg)
 ![página wallet](/src/walletimg.jpg)
 
-# WALLIST 
-Neste projeto, usando React e Redux, foi desenvolvido uma aplicação que funciona como uma carteira digital para o controle de gastos. Essa aplicação possui uma página inicial onde o usuário efetua o login e neste momento é feito a validação do formato de email e senha. O usuário é então redirecionado para a página da carteira, onde é possível gerenciar (adicionar, editar e excluir) as despesas em diferentes moedas e visualizar o total de gastos convertidos para uma moeda de escolha.
-Para realizar a busca de câmbio de moedas, são utilizados dados da API do [awesomeapi API de Cotações](https://economia.awesomeapi.com.br/json/all).
+In this project, an application was developed using React and Redux. This application works as a digital wallet to control expenseshas and have a home page where the user logs in and at this moment the email and password format is validated. The user is then redirected to the wallet page, where it is possible to manage (add, edit and delete) expenses in different currencies and view the total expenses converted to a currency of choice.
+To perform the currency exchange search, data from the [awesomeapi Quotations API] API (https://economia.awesomeapi.com.br/json/all) is used.
 
-A validação da aplicação foi feita usando a biblioteca React Testing Library.
+Application validation was done using the React Testing Library.
 
-**Este projeto foi desenvolvido durante o curso de Desenvolverdor Web na Trybe.** Para acessar a página clique [aqui](https://carinacunha.github.io/wallist/).
+**This project was developed during the Web Developer course at Trybe.** 
