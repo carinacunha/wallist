@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wallist/static/css/main.3969104b.css",
-    "main.js": "/wallist/static/js/main.2518583f.js",
+    "main.js": "/wallist/static/js/main.073d5a86.js",
     "index.html": "/wallist/index.html",
     "main.3969104b.css.map": "/wallist/static/css/main.3969104b.css.map",
-    "main.2518583f.js.map": "/wallist/static/js/main.2518583f.js.map"
+    "main.073d5a86.js.map": "/wallist/static/js/main.073d5a86.js.map"
   },
   "entrypoints": [
     "static/css/main.3969104b.css",
-    "static/js/main.2518583f.js"
+    "static/js/main.073d5a86.js"
   ]
 }
