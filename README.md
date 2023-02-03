@@ -8,4 +8,4 @@ To perform the currency exchange search, data from the [awesomeapi Quotations AP
 
 Application validation was done using the React Testing Library.
 
-**This project was developed during the Web Developer course at Trybe.** 
+**✨This project was developed during the Web Developer course at Trybe.** 
