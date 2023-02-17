@@ -8,4 +8,10 @@ To perform the currency exchange search, data from the [awesomeapi Quotations AP
 
 Application validation was done using the React Testing Library.
 
+## Guidelines to runnig API ##
+1. Clone the repository: ```git clone git@github.com:carinacunha/wallist.git```
+2. Navigate to the root of the repository: ```cd wallist```
+3. Install the dependencies: ```npm install```
+4. Start the app: ```npm start```
+
 **✨This project was developed during the Web Developer course at Trybe.** 
